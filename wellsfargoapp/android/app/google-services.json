@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198228538941",
+    "project_id": "wellsfargo-b12d8",
+    "storage_bucket": "wellsfargo-b12d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198228538941:android:b1beb6c71278d8e3ea9c54",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198228538941-l2d1rl4qib3gkfgme3quiiv2jc05b6n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0VHkug9TK4JoyyS08NR6Omx1XA-5pOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198228538941-l2d1rl4qib3gkfgme3quiiv2jc05b6n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
